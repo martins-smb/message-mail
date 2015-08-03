@@ -1,0 +1,13 @@
+{
+    "name": "martins-smb/message-mail",
+    "description": "Message Mail",
+    "keywords": [ "message-mail", "mail" ],
+    "homepage": "https://github.com/martins-smb/message-mail",
+    "license": "no usage restriction",
+    "require": {
+        "php": ">5.3.0"
+    },
+    "autoload": {
+        "classmap": ["message-mail/"]
+    }
+}
